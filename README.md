@@ -30,6 +30,39 @@ También he sido responsable de la puesta en marcha y administración de **3CX**
 - **Panel de YouTube Shorts:** aplicación para centralizar la subida de Shorts a cuatro canales de YouTube desde un único panel. Proyecto personal en desarrollo.
 - **Videojuegos con IA:** desarrollo de videojuegos con apoyo de herramientas de inteligencia artificial durante el proceso de creación.
 
+## Mapa de repositorios
+
+### Repositorios propios públicos
+
+| Repositorio | Contenido |
+| --- | --- |
+| [Dekaz4](https://github.com/Dekaz4/Dekaz4) | Perfil profesional, productos publicados y áreas de trabajo. |
+| [Game2d](https://github.com/Dekaz4/Game2d) | Repositorio inicial de un proyecto de juego 2D. |
+
+### Forks y contribuciones open source
+
+En estos forks mantengo correcciones y adaptaciones de proyectos open source. Los enlaces a los originales identifican a sus autores y permiten consultar su documentación.
+
+| Área | Mi fork | Proyecto original |
+| --- | --- | --- |
+| Sistemas y Microsoft 365 | [ScubaGear](https://github.com/Dekaz4/ScubaGear) | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) |
+| IA conversacional | [agents](https://github.com/Dekaz4/agents) | [livekit/agents](https://github.com/livekit/agents) |
+| Automatización web con IA | [browser-use](https://github.com/Dekaz4/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) |
+| Extracción de datos web | [crawlee](https://github.com/Dekaz4/crawlee) | [apify/crawlee](https://github.com/apify/crawlee) |
+| Procesamiento de documentos | [markitdown](https://github.com/Dekaz4/markitdown) | [microsoft/markitdown](https://github.com/microsoft/markitdown) |
+| Facturación electrónica | [factur-x](https://github.com/Dekaz4/factur-x) | [akretion/factur-x](https://github.com/akretion/factur-x) |
+| Automatización móvil | [MobileAgent-Android](https://github.com/Dekaz4/MobileAgent-Android) | [GiggleWang/MobileAgent-Android](https://github.com/GiggleWang/MobileAgent-Android) |
+
+### Correcciones presentadas a los proyectos originales
+
+| Proyecto | Corrección | Pull request |
+| --- | --- | --- |
+| Factur-X | Tratamiento de zonas horarias en timestamps. Integrada el 11 de octubre de 2026. | [akretion/factur-x#95](https://github.com/akretion/factur-x/pull/95) |
+| LiveKit Agents | Canales de salida en archivos WAV. | [livekit/agents#7725](https://github.com/livekit/agents/pull/7725) |
+| Browser Use | Campos reservados en extracción estructurada. | [browser-use/browser-use#6036](https://github.com/browser-use/browser-use/pull/6036) |
+| Crawlee | Orden de limpieza en el crawler adaptativo. | [apify/crawlee#4253](https://github.com/apify/crawlee/pull/4253) |
+| MarkItDown | URLs codificadas en archivos EPUB. | [microsoft/markitdown#2692](https://github.com/microsoft/markitdown/pull/2692) |
+
 ## Tecnologías y áreas de trabajo
 
 | Área | Tecnologías |
