@@ -6,7 +6,7 @@
 
 España · [LinkedIn](https://www.linkedin.com/in/diego-spoleto-couto/) · [Apify](https://apify.com/dekaz)
 
-Combino la administración de sistemas con el desarrollo de herramientas que resuelven problemas concretos: automatización, APIs, integración de servicios e inteligencia artificial aplicada. Mi experiencia incluye soporte IT y entornos Windows y Microsoft 365; mis proyectos personales abarcan datos web, inteligencia de riesgo IP, facturación electrónica y aplicaciones.
+Combino la administración de sistemas con el desarrollo de herramientas que resuelven problemas concretos: automatización, APIs e integración de servicios. Mi experiencia incluye soporte IT y entornos Windows y Microsoft 365; mis proyectos personales abarcan datos web, inteligencia de riesgo IP y desarrollo de videojuegos.
 
 ## Trabajo profesional
 
@@ -35,9 +35,8 @@ Publico estas herramientas bajo la marca **Dekaz**, con documentación y ejemplo
 
 ## Otros proyectos
 
-- **Factur-X Engine:** motor en Python para generar facturas híbridas con PDF y XML estructurado, con API REST en FastAPI, controles técnicos y generación de documentos mediante WeasyPrint. Repositorio privado.
-- **Panel de YouTube Shorts:** aplicación para centralizar la subida de Shorts a cuatro canales de YouTube desde un único panel. Proyecto personal en desarrollo.
-- **Videojuegos con IA:** desarrollo de videojuegos con apoyo de herramientas de inteligencia artificial durante el proceso de creación.
+- **Estandarte · El valle de la frontera:** videojuego de estrategia medieval para Android y Windows, desarrollado con Godot y GDScript. Combina gestión de recursos, construcción de aldeas y combate, con modos Conquista, Historia y multijugador. Proyecto en desarrollo.
+- **[Web de Estandarte](https://estandarte-privacidad.dekaz.chatgpt.site):** web pública del proyecto con su política de privacidad y un canal de contacto.
 
 ## Mapa de repositorios
 
@@ -47,7 +46,6 @@ Publico estas herramientas bajo la marca **Dekaz**, con documentación y ejemplo
 | --- | --- |
 | [Dekaz4](https://github.com/Dekaz4/Dekaz4) | Perfil profesional, productos publicados y áreas de trabajo. |
 | [B2B Domain Enrichment API](https://github.com/Dekaz4/b2b-domain-enrichment-vat-impressum-api) | Documentación, clientes Python y Node.js y ejemplos de integración con n8n, Make y Clay. |
-| [Game2d](https://github.com/Dekaz4/Game2d) | Repositorio inicial de un proyecto de juego 2D. |
 
 ### Forks y contribuciones open source
 
@@ -92,4 +90,4 @@ Puedes contactar conmigo en [LinkedIn](https://www.linkedin.com/in/diego-spoleto
 
 ## English
 
-I'm an IT systems technician based in Spain, working with Windows and Microsoft 365 environments. I also build APIs, automation tools and practical integrations, with published products under the Dekaz brand on Apify, RapidAPI and JoJ API. My projects include B2B web data enrichment, company tax data, EU VAT validation, advertising intelligence, web-to-Markdown for RAG, IP risk intelligence, email and SEO metadata APIs, electronic invoicing and a multi-channel YouTube Shorts panel.
+I'm an IT systems technician based in Spain, working with Windows and Microsoft 365 environments. I also build APIs, automation tools and practical integrations, with published products under the Dekaz brand on Apify, RapidAPI and JoJ API. My projects include B2B web data enrichment, company tax data, EU VAT validation, advertising intelligence, web-to-Markdown for RAG, IP risk intelligence, email and SEO metadata APIs. I also develop Estandarte, a medieval real-time strategy game for Android and Windows.
