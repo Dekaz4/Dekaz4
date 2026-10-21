@@ -29,14 +29,14 @@ Publico estas herramientas bajo la marca **Dekaz**, con documentación y ejemplo
 | **EU VAT Number Validator & VIES Lookup** | Consulta números de IVA europeos en VIES y descubre identificadores fiscales publicados en webs de empresas. | [RapidAPI](https://rapidapi.com/spoleto48/api/eu-vat-number-validator-official-vies-company-lookup-api) |
 | **German Impressum & Legal Entity Scraper** | Extrae datos societarios, representantes y referencias registrales publicados en avisos legales de webs DACH, con sus fuentes. | [RapidAPI](https://rapidapi.com/spoleto48/api/german-impressum-scraper-legal-entity-dach-company-data) |
 | **Domain DNS & Email Provider Lookup** | Consulta registros MX, SPF y DMARC y devuelve señales de proveedores de correo junto con sus evidencias DNS. | [RapidAPI](https://rapidapi.com/spoleto48/api/domain-dns-mx-record-spf-dmarc-email-provider-lookup) |
-| **NIFScout: Spanish Company CIF/NIF Lookup** | Extrae el CIF/NIF corporativo y la razón social de una web española, comprueba el dígito de control y devuelve la página de origen. | [RapidAPI](https://rapidapi.com/spoleto48/api/nifscout-website-to-spanish-cif-nif) · [Apify — en mantenimiento](https://apify.com/dekaz/spanish-company-tax-data) |
+| **NIFScout: Spanish Company CIF/NIF Lookup** | Extrae el CIF/NIF corporativo y la razón social de una web española, comprueba el dígito de control y devuelve la página de origen. | [RapidAPI](https://rapidapi.com/spoleto48/api/nifscout-website-to-spanish-cif-nif) · [Apify](https://apify.com/dekaz/spanish-company-tax-data) |
 | **Email Validation & SEO Metadata Extraction** | Valida la sintaxis de correos, detecta dominios desechables conocidos y extrae metadatos SEO y Open Graph. | [RapidAPI](https://rapidapi.com/spoleto48/api/email-seo-metadata-extraction-api) · [JoJ API](https://jojapi.com/hub/api/email-and-seo-metadata-extraction-api) |
 | **FraudGuard: IP Geolocation & Risk Intelligence** | Devuelve geolocalización, ASN y señales de VPN, proxy y Tor, junto con una puntuación explicable de riesgo IP. | [RapidAPI](https://rapidapi.com/spoleto48/api/fraudguard-ip-risk-intelligence-api) · [JoJ API](https://jojapi.com/hub/api/fraudguard-and-ip-risk-intelligence-api) |
 
 ## Otros proyectos
 
 - **Estandarte · El valle de la frontera:** videojuego de estrategia medieval para Android y Windows, desarrollado con Godot y GDScript. Combina gestión de recursos, construcción de aldeas y combate, con modos Conquista, Historia y multijugador. Proyecto en desarrollo.
-- **[Web de Estandarte](https://estandarte-privacidad.dekaz.chatgpt.site):** web pública del proyecto con su política de privacidad y un canal de contacto.
+- **[Web de Estandarte](https://estandarterts.com):** web oficial del juego.
 
 ## Mapa de repositorios
 
