@@ -16,13 +16,22 @@ También he sido responsable de la puesta en marcha y administración de **3CX**
 
 ## Productos publicados
 
-| Proyecto | Qué hace | Plataforma |
+Publico estas herramientas bajo la marca **Dekaz**, con documentación y ejemplos para integrar datos web, automatizaciones y agentes de IA.
+
+**Catálogos:** [Apify](https://apify.com/dekaz) · [RapidAPI](https://rapidapi.com/user/spoleto48) · [JoJ API](https://jojapi.com/hub/user/dekaz)
+
+| Proyecto | Qué hace | Disponible en |
 | --- | --- | --- |
-| [B2B Domain & Tech-Spend Enricher API](https://apify.com/dekaz/b2b-domain-tech-enricher) | Enriquece dominios con señales de tecnología web, ecommerce, metadatos y perfiles sociales. Devuelve evidencia y confianza heurística para integraciones de datos B2B. | Apify |
-| [Cross-Channel Ad Intelligence Monitor](https://apify.com/dekaz/cross-channel-ad-intelligence-monitor) | Normaliza datos publicitarios públicos de Meta, Google, LinkedIn y TikTok desde fuentes compatibles; detecta cambios y genera informes y alertas. **Beta.** | Apify |
-| [EU Maritime & Port Opportunity Monitor](https://apify.com/dekaz/eu-maritime-port-opportunity-monitor) | Monitoriza licitaciones y oportunidades marítimas y portuarias en fuentes oficiales españolas y europeas, con clasificación, deduplicación y seguimiento de cambios. | Apify |
-| [Email & SEO Metadata Extraction API](https://rapidapi.com/spoleto48/api/email-seo-metadata-extraction-api/) | Valida sintaxis de email e identifica dominios desechables; extrae títulos, descripciones y etiquetas Open Graph de sitios públicos. | RapidAPI · Cloudflare Workers |
-| [FraudGuard & IP Risk Intelligence API](https://rapidapi.com/spoleto48/api/fraudguard-ip-risk-intelligence-api/) | Analiza IPs y proporciona geolocalización, ASN, señales de VPN, proxy y Tor, y puntuación de riesgo basada en datos y heurísticas. | RapidAPI · Cloudflare Workers |
+| **B2B Website Technology & Domain Enrichment** | Enriquece dominios con tecnologías web, señales de ecommerce, metadatos empresariales y enlaces sociales públicos. | [Apify](https://apify.com/dekaz/b2b-domain-tech-enricher) |
+| **Competitor Ad Monitoring & Creative Changes** | Detecta anuncios nuevos y cambios de creatividades y páginas de destino a partir de datasets o Actors compatibles. **Beta; requiere fuentes aportadas por el usuario.** | [Apify](https://apify.com/dekaz/cross-channel-ad-intelligence-monitor) |
+| **LLM Reader: Web Page to Markdown** | Convierte páginas públicas en Markdown y metadatos para investigación, RAG y agentes de IA, con renderizado JavaScript opcional. | [Apify](https://apify.com/dekaz/llm-reader-web2markdown) · [RapidAPI](https://rapidapi.com/spoleto48/api/llm-reader-web2markdown-api) |
+| **B2B Company Enrichment: Contacts, EU VAT & Impressum** | Enriquece dominios con identidad legal y contactos empresariales públicos, conserva las fuentes y consulta VIES cuando corresponde. | [Apify](https://apify.com/dekaz/global-b2b-intelligence-engine) · [RapidAPI](https://rapidapi.com/spoleto48/api/company-domain-enrichment-email-finder-b2b-tech-stack-api) |
+| **EU VAT Number Validator & VIES Lookup** | Consulta números de IVA europeos en VIES y descubre identificadores fiscales publicados en webs de empresas. | [RapidAPI](https://rapidapi.com/spoleto48/api/eu-vat-number-validator-official-vies-company-lookup-api) |
+| **German Impressum & Legal Entity Scraper** | Extrae datos societarios, representantes y referencias registrales publicados en avisos legales de webs DACH, con sus fuentes. | [RapidAPI](https://rapidapi.com/spoleto48/api/german-impressum-scraper-legal-entity-dach-company-data) |
+| **Domain DNS & Email Provider Lookup** | Consulta registros MX, SPF y DMARC y devuelve señales de proveedores de correo junto con sus evidencias DNS. | [RapidAPI](https://rapidapi.com/spoleto48/api/domain-dns-mx-record-spf-dmarc-email-provider-lookup) |
+| **NIFScout: Spanish Company CIF/NIF Lookup** | Extrae el CIF/NIF corporativo y la razón social de una web española, comprueba el dígito de control y devuelve la página de origen. | [RapidAPI](https://rapidapi.com/spoleto48/api/nifscout-website-to-spanish-cif-nif) · [Apify — en mantenimiento](https://apify.com/dekaz/spanish-company-tax-data) |
+| **Email Validation & SEO Metadata Extraction** | Valida la sintaxis de correos, detecta dominios desechables conocidos y extrae metadatos SEO y Open Graph. | [RapidAPI](https://rapidapi.com/spoleto48/api/email-seo-metadata-extraction-api) · [JoJ API](https://jojapi.com/hub/api/email-and-seo-metadata-extraction-api) |
+| **FraudGuard: IP Geolocation & Risk Intelligence** | Devuelve geolocalización, ASN y señales de VPN, proxy y Tor, junto con una puntuación explicable de riesgo IP. | [RapidAPI](https://rapidapi.com/spoleto48/api/fraudguard-ip-risk-intelligence-api) · [JoJ API](https://jojapi.com/hub/api/fraudguard-and-ip-risk-intelligence-api) |
 
 ## Otros proyectos
 
@@ -37,6 +46,7 @@ También he sido responsable de la puesta en marcha y administración de **3CX**
 | Repositorio | Contenido |
 | --- | --- |
 | [Dekaz4](https://github.com/Dekaz4/Dekaz4) | Perfil profesional, productos publicados y áreas de trabajo. |
+| [B2B Domain Enrichment API](https://github.com/Dekaz4/b2b-domain-enrichment-vat-impressum-api) | Documentación, clientes Python y Node.js y ejemplos de integración con n8n, Make y Clay. |
 | [Game2d](https://github.com/Dekaz4/Game2d) | Repositorio inicial de un proyecto de juego 2D. |
 
 ### Forks y contribuciones open source
@@ -82,4 +92,4 @@ Puedes contactar conmigo en [LinkedIn](https://www.linkedin.com/in/diego-spoleto
 
 ## English
 
-I'm an IT systems technician based in Spain, working with Windows and Microsoft 365 environments. I also build APIs, automation tools and practical integrations, with published products on Apify and RapidAPI. My projects include B2B web data enrichment, advertising intelligence, maritime procurement monitoring, IP risk intelligence, email and SEO metadata APIs, electronic invoicing and a multi-channel YouTube Shorts panel.
+I'm an IT systems technician based in Spain, working with Windows and Microsoft 365 environments. I also build APIs, automation tools and practical integrations, with published products under the Dekaz brand on Apify, RapidAPI and JoJ API. My projects include B2B web data enrichment, company tax data, EU VAT validation, advertising intelligence, web-to-Markdown for RAG, IP risk intelligence, email and SEO metadata APIs, electronic invoicing and a multi-channel YouTube Shorts panel.
